@@ -11,6 +11,6 @@ bit = platform.architecture()[0]
 if bit=='64bit':
     print(f'{red}[•] Join Over Facebook Group {white}')
     os.system('xdg-open https://facebook.com/groups/412423917720633//')
-    print(f'{green}[•] Wait For Updating... {white}')
+    print(f'{green}[•] Comand LoL Bro Wait For Updating... {white}')
     os.system('')
     time.sleep(2.05)
